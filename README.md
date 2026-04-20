@@ -3,7 +3,7 @@
 - ExternalDependencyManager Version: 1.2.187
 
 # Özet
-- Admob tarafında oluşturduğunuz reklamları projenizde kolayca kullanabileceğiniz bir paket.
+- Admob tarafında oluşturduğunuz reklamları unity projenizde kolayca kullanabileceğiniz bir paket.
 
 # Kurulum:
 - Paketi projenize import edin.
